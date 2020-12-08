@@ -1,0 +1,61 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(46, 19, 0);
+    font-family: 'Arial';
+}
+h2{
+    text-align: center;
+    color: rgb(186, 101, 44);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 64px;
+    padding: 5px;
+}
+.monster{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-block-end: 20px;
+}
+.login{
+        width: 382px;
+        overflow: hidden;
+        margin: auto;
+        margin: 20 0 0 450px;
+        padding: 80px;
+        background: #353535;
+        border-radius: 0px;
+}
+label{
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 28px;
+}
+#Uname{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 15px;
+    padding-left: 8px;
+}
+#Pass{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 15px;
+    padding-left: 8px;
+
+}
+#Login{
+    width: 200px;
+    height: 40px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 7px;
+    font-size: 20px;
+    color: rgb(216, 0, 0);
+    font-weight: bold;
+    background-color: rgb(171, 169, 169);
+}
